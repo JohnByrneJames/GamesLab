@@ -15,3 +15,5 @@ Working as of [17/05/2019]
 [Exercise 4] - Traffic Light. In this exercise we needed to create a traffic light using C# techniques we had learned previously, along with a pseduo-diagram which made it easier to imagine how a traffic light operates. In my case I used multiple if statements that changed the materials on the lights depending on multiple variables, the timer would reset when the button was pressed and count down from '15' this would allow the traffic-light cycle through its colours and then return to green. It was an interested exercise that showed how useful deltaTime is in performing such operations.
 
 [Exercise 5] - The 2D Platformer. This platformer was created by making use of various C# techniques such as changeing the direction of the character, depending on the movement direction and collisions to kill the enemies and incorporate pickups.
+
+[Main Menu] - This was created using the Unity UI elements, it uses the sceneManager to change between scenes and is available in every level.
